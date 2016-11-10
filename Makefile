@@ -1,7 +1,7 @@
 
 
 seed:
-
+	go run main.go
 
 firehose-to-s3:
 	terraform get ./firehose-to-s3
